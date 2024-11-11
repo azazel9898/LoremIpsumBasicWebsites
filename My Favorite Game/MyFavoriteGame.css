@@ -1,0 +1,42 @@
+body {
+  background-color: green;
+}
+
+div {
+    border: 10px;
+    border-style: ridge;
+    border-color: darkgreen;
+    border-width: 7px;
+    text-emphasis: inherit;
+    margin: 25px 50px 75px 50px;
+    background-color: wheat;
+    font-size: xx-large
+}
+
+.siema {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: xxx-large;  
+}
+
+.bariera {
+  border: 10px;
+  border-style: dashed;
+  border-color: black;
+  border-width: 10px;
+  margin-left: 50px;
+}
+
+div1 {
+  display: flex;
+}
+
+.siema1 {
+  text-align: center;
+  text-transform: uppercase;
+  margin-left: 700px; 
+}
+
+.margines {
+  margin-left: 10px;
+}

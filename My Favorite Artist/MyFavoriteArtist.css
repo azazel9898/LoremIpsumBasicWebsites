@@ -1,0 +1,43 @@
+body {
+  background-color: goldenrod;
+}
+
+div {
+    border: 10px;
+    border-style: ridge;
+    border-color: darkgoldenrod;
+    border-width: 7px;
+    text-emphasis: inherit;
+    font-size: xx-large;
+    margin: 25px 50px 75px 50px;
+    background-color: white;
+}
+
+.siema {
+  text-align: center;
+  font-size: xxx-large;
+  text-transform: uppercase;  
+}
+
+.granica {
+  border: 10px;
+  border-style: double;
+  border-color: coral;
+  border-width: 20px;
+
+}
+
+.album {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.albumcover{
+  margin: auto;
+  float: right;
+  
+}
+
+.margin {
+  margin: 20px;
+}
